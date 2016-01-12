@@ -1,6 +1,3 @@
-git is a version control system. fixed bug.
-
-dddddd
 
 ddkf
 lalalalalallaal
